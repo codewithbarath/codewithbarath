@@ -49,12 +49,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 ---
-<img width="30" height="30" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="30" height="30" src="https://img.icons8.com/ios-filled/50/css3.png" alt="css3"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png"alt="javascript--v1"/>
-<img width="30" height="30" src="https://img.icons8.com/ios-filled/50/visual-studio.png" alt="visual-studio"/>
----
+
 
 ## 📊 GitHub Stats
 
