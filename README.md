@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **mini front-end projects** (Clock, Converter, etc.)
 - 🌱 Learning **advanced JavaScript** & **DOM manipulation**
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **Python**
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **Python**,**Java**
 - 🌙 *Fun fact:* I love solving logic problems at midnight
 
 ---
@@ -38,6 +38,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 ## 🧠 I Code In
@@ -47,6 +48,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 </p>
 ---
 
