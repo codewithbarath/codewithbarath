@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Barath Kumar**
-### 💻 java developer | Passionate about building clean and responsive web apps
+### 💻 Java Developer | Passionate about building clean and responsive web apps
 
 ---
 
@@ -7,22 +7,34 @@
 
 - 🔭 Currently working on **mini front-end projects** (Clock, Converter, etc.)
 - 🌱 Learning **advanced JavaScript** & **DOM manipulation**
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **Python**,**Java**
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **Python**, **Java**, and **SQL**
+- 🧠 Solved **105+ coding problems on LeetCode using Java**
+- 🗄️ Built SQL projects like **Employee Management System** and **Library Management System**
 - 🌙 *Fun fact:* I love solving logic problems at midnight
 
----
-
+- 
 ## 🧰 Notable Projects
 
 - ⏰ **Digital Clock App**  
   Real-time live clock built using HTML, CSS, JS
-   🎲 **Dice Roller**  
+
+- 🎲 **Dice Roller**  
   Simulates random dice rolls with clean UI
 
 - 🌡️ **Temperature Converter**  
   Converts between Celsius, Fahrenheit & Kelvin
 
----
+- 🚖 **Ride Booking System (Rapido-like Application)**  
+  Java-based OOP project simulating ride booking, fare calculation, and ride management using inheritance and polymorphism
+
+- 🏦 **Banking Management System**  
+  Java OOP project with features like account creation, deposit, withdrawal, balance inquiry, and authentication
+
+- 🗄️ **Employee Management System (SQL)**  
+  Database project using SQL Server implementing tables, joins, primary/foreign keys, and aggregate functions
+
+- 📚 **Library Management System (SQL)**  
+  Designed relational database system for managing books, students, and issue records using SQL queries, views, and procedures
 
 ## 📫 Connect with Me
 
