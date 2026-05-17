@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Barath Kumar**
-### 💻 Front-End Developer | Passionate about building clean and responsive web apps
+### 💻 java developer | Passionate about building clean and responsive web apps
 
 ---
 
