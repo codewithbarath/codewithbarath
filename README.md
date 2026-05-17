@@ -39,7 +39,7 @@
 ## 📫 Connect with Me
 
 📧 `devbarath4602@gmail.com`  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINK_HERE)
+[![LinkedIn](https://www.linkedin.com/in/barathkumar-a-06594b3a7/overlay/background-photo/)](https://linkedin.com/in/YOUR_LINK_HERE)
 
 ---
 
